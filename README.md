@@ -20,4 +20,6 @@ or even local file system.
 
 ## How To Contribute
 
+### Copyright
+2014 training
 
