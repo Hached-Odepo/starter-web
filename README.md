@@ -19,7 +19,7 @@ deployement can be on any web server
 or even local file system.
 
 ## How To Contribute
-
+Please fork this repo
 ### Copyright
 2014 training
 
